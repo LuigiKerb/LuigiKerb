@@ -4,7 +4,7 @@
 
 **Analista de Dados** pela [SAGG Consultoria](https://www.saggconsult.com.br)
 
-- 🎓 Foramdo em **Sistemas de Informação** pela **UFV-CRP** 
+- 🎓 Foramado em **Sistemas de Informação** pela **UFV-CRP** 
 - 📈 **Analista de dados**
 - 🎮 **Gamer** nas horas vagas
 - 💻 **Atualmente** focado em:
