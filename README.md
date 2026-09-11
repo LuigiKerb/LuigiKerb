@@ -2,13 +2,17 @@
 
 ###
 
-**Analista de Dados** pela [SAGG Consultoria](https://www.saggconsult.com.br)
+**Analista de Dados Pleno** pela [Vivo Vita](https://vitait.com)
 
 - 🎓 Foramado em **Sistemas de Informação** pela **UFV-CRP** 
 - 📈 **Analista de dados**
 - 🎮 **Gamer** nas horas vagas
 - 💻 **Atualmente** focado em:
 
+<div align="left">
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" height="50" alt="PowerBI logo"  />
+</div>
 
 <div align="left">
   <img width="24" />
