@@ -12,10 +12,7 @@
 <div align="left">
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" height="50" alt="PowerBI logo"  />
-</div>
-
-<div align="left">
-  <img width="24" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
